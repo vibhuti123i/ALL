@@ -1,2 +1,2 @@
 # DNS_wordlist
-This is wordlist for Domain enumeration
+THis is the repository for  tools,wordlists,payload which i am using or which I have created.
